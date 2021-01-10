@@ -1,4 +1,4 @@
-# contest_exercises (resolución de ejercicios - páginas de contest).
+# contest exercises (resolución de ejercicios - páginas de contest).
 
 _Proyecto que busca ser repositorio del solucionario de los diferentes ejercicios propuestos en las web de URI Online Judge y CodeForces._
 
@@ -42,22 +42,24 @@ ContestExercices
 
 _Personas que colaboraron con el proyecto desde sus inicios_
 
-* **Camilo Montoya** - *Trabajo Inicial* - [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc)
+* **Camilo Montoya** - *Trabajo Inicial* - [Camilo Montoya](https://github.com/CamiloMontoyaAdc)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/CamiloMontoyaAdc/ContestExercices/graphs/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GPL-3.0 - mira el archivo [LICENSE.md](https://github.com/CamiloMontoyaAdc/ContestExercices/blob/main/LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo: [paypal.me/CamiloMontoyaAdc](paypal.me/CamiloMontoyaAdc).
+* Apoya el esfuerzo realizado haciendo un pequeño aporte (del valor que desees) para seguir creando aplicaciones o proyectos y generar nuevo conocimiento libre al mundo, a continuación, el enlace para acceder a la opción de donación vía PayPal: [paypal.me/CamiloMontoyaAdc](https://paypal.me/CamiloMontoyaAdc).
 
 ---
-⌨️ con ❤️ por [CamiloMonoyaAdc](https://github.com/CamiloMontoyaAdc) 😊
+⌨️ con ❤️ por [Camilo Montoya](https://github.com/CamiloMontoyaAdc) 😊
+
+Linked in: [https://www.linkedin.com/in/camiloamontoyah](https://www.linkedin.com/in/camiloamontoyah/).
 
 "Las obras de conocimiento deben ser libres, no hay excusas para que no sea así." - Richard Stallman.
