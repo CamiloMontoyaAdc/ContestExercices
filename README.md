@@ -1,6 +1,6 @@
 # contest exercises (resolución de ejercicios - páginas de contest).
 
-_Proyecto que busca ser repositorio del solucionario de los diferentes ejercicios propuestos en las web de URI Online Judge y CodeForces._
+_Proyecto que busca ser repositorio del solucionario de los diferentes ejercicios propuestos en las web's de contests._
 
 ## Comenzando 🚀
 
@@ -36,7 +36,17 @@ _A continuación, se muestra la estructura general de las carpetas/directorios u
 
 ContestExercices
 |_CODEFORCES
+|_HACKER RANK
 |_URI ONLINE JUDGE
+|_TOP CODER
+|_CODER BYTE
+|_PROJECT EULER
+|_CODE CHEF
+|_EXERCISM.IO
+|_CODEWARS
+|_LEET CODE
+|_SPOJ
+|_CONDIN GAME
 
 ## Autores ✒️
 
